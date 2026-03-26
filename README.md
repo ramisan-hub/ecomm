@@ -1,4 +1,4 @@
 This is my first github .
 <br>
-author - ramisam thakur .
+author - ramisan thakur .
 
